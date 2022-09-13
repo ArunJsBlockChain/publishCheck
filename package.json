@@ -1,0 +1,23 @@
+{
+  "name": "publishcheck",
+  "version": "1.0.0",
+  "description": "test publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArunJsBlockChain/publishCheck.git"
+  },
+  "keywords": [
+    "simple",
+    "publish"
+  ],
+  "author": "developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArunJsBlockChain/publishCheck/issues"
+  },
+  "homepage": "https://github.com/ArunJsBlockChain/publishCheck#readme"
+}
